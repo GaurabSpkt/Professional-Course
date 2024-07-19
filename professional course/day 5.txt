@@ -1,0 +1,5 @@
+day 5
+1.python library 
+2.numpy
+3.ndarray
+4.arithmetic with num.py arrays

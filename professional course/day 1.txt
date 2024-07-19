@@ -1,0 +1,12 @@
+day 1
+
+1.Need for programming
+2.What is Python? why Python?
+3.Features of python.
+4.Python syntax
+5.Variable in python 
+6.Operators
+7.
+
+
+

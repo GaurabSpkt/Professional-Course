@@ -1,0 +1,5 @@
+day 6
+1.index and slicing
+2.concatenate
+
+

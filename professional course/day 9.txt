@@ -1,0 +1,4 @@
+day 9
+1.plotting
+2.Data Visualization
+3.using excel for graph 

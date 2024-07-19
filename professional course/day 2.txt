@@ -1,0 +1,6 @@
+day 2
+1.elif
+2.while loop for loop
+3.nested loops
+4.List properties/related operation
+5.tuples operations
